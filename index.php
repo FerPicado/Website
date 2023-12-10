@@ -17,12 +17,8 @@
     </div>
 
     <div class="card col-md-6 col-lg-3" style="width: 18rem;">
-      <img src="img/beef_birra_tacos_ground_black_pepper_800x800.jpg" class="card-img-top" alt="comida">
+      <img src="img/ordene.png" class="card-img-top" alt="comida">
       <div class="card-body">
-        <h5 class="card-title">Tacos de birria<br>
-      <br>
-      Carne de carnero, preparada y adobada con mas de 6 tipos de chile, condimentos y sal.
-      </h5>
       </div>
     </div>
 
@@ -75,6 +71,13 @@
     <h3>Informacion general</h3>
     <h6>
         Descubre una fusión única de sabores de México en nuestro restaurante. Ubicados en la calle de la amargura #12, San Pedro de Montes de Oca, abrimos nuestras puertas todos los días de la semana para ofrecerte lo mejor de nuestra cocina. <br>
+    </h6>
+    <p>
+    <h3>Testimonios:</h3>
+    <h6>
+        He disfrutado experimentar la gastronomia que ofrece Talavera. Viviana <br>
+        Lo platillo que sirven son de calidad. Carlo <br>
+        Recomendado para todos lo gustos. Julian
     </h6>
     <p>
         <h4> Horario de atención:<br> <h4>
